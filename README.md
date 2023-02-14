@@ -49,4 +49,5 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 References:  
 Atlassian. (n.d.). Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial. Retrieved from Atlassian website: https://www.atlassian.com/git  
 Marijan, B. (2021, September 2). How to Use Git {Beginner’s Guide} + Getting Started with GitHub. Retrieved from Knowledge Base by phoenixNAP website: https://phoenixnap.com/kb/how-to-use-git  
+GitHub glossary. (n.d.). Retrieved from GitHub Docs website: https://docs.github.com/en/get-started/quickstart/github-glossary  
 
